@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Elnathan1
+- 👀 I’m a Safety and Environment Inspector turned Data Scientist.
+- I'm particularly passionate about Data Analytics and how actionable insisghts/visualizations can make a huge difference in business decisions.
+- I’m completing my Data Science BootCamp Tech Certification at Utiva Learning this July, 2024. And to further upskill and advance my career in other Data Analytics tools, such as Kafka, hadoop, Apache H-Base and Spark, I am currently taking another Diploma Certification course in  Big Data Analytics at the Scholars International Institute Technology (SIIT) from the United States.
+- I available to collaboration with any Data Scientist or Data Analyst on any project in Big Data Analytics or RDBM.
